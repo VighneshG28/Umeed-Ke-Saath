@@ -20,9 +20,6 @@ const App = () => {
           <Route path="/" element={<Homepage/>} />
           <Route path="/:idn" element={<NgoDetail/>} />
         </Routes>
-        <PageDetailsOne/>
-        <PageDetailsTwo/>
-        <PageDetailsThree/>
         <Area/>
         <Footer/>    
       </BrowserRouter>

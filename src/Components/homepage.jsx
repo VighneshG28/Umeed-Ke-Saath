@@ -5,11 +5,14 @@ import ngo4 from '../assets/ngo4.jpg';
 import ngo5 from '../assets/ngo5.jpg';
 import ngo6 from '../assets/ngo6.jpg';
 import ngo7 from '../assets/ngo7.jpg';
+import PageDetailsOne from './pageDetailsOne'
+import PageDetailsTwo from './pageDetailsTwo'
+import PageDetailsThree from './pageDetailsThree'
 import './card.css'
 
 const Homepage = () => {
   return (
-    <div>
+    <div className='homepage-bg'>
       <div className="banner">
         <div className="slider" style={{ "--quantity": 7 }}>
           <div className="item" style={{ "--position": 1 }}>
@@ -36,7 +39,9 @@ const Homepage = () => {
         </div>
         <div className="model"></div>
       </div>
-      <div className="shadow-line"></div>
+      <PageDetailsOne/>
+      <PageDetailsTwo/>
+      <PageDetailsThree/>
     </div>
   );
 };
