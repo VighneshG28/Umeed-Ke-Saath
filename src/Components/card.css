@@ -531,11 +531,11 @@ button:hover {
 
 .title-container {
   position: relative;
-  width: 96%; /* Covers more from left and right */
+  width: 96%;
   max-width: 1400px;
-  margin: 90px auto 20px auto; /* Pushed down by 50px (20px previous margin + 50px extra) */
+  margin: 90px auto 20px auto;
   border-radius: 20px;
-  overflow: hidden; /* Ensures rounded corners apply */
+  overflow: hidden;
 }
 
 .title-img {
@@ -547,7 +547,7 @@ button:hover {
 
 .title {
   position: absolute;
-  top: calc(40% + 70px); /* Shifted down by 50px */
+  top: calc(40% + 70px);
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
@@ -559,7 +559,7 @@ button:hover {
 
 .title-slogan {
   position: absolute;
-  top: calc(55% + 50px); /* Shifted down by 50px */
+  top: calc(55% + 70px);
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
