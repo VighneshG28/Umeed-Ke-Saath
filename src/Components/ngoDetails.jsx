@@ -8,7 +8,6 @@ import './card.css'
 const NgoDetail = () => {
 
   const [info, setInfo] = useState(null);
-  // const [funds, setFunds] = useState(null);
   const { idn } = useParams();
 
   useEffect(() => {
@@ -17,7 +16,6 @@ const NgoDetail = () => {
         const url = `https://partners.every.org/v0.2/nonprofit/${idn}?apiKey=${import.meta.env.VITE_NGO_KEY}`;
         const res = await fetch(url);
         const datas = await res.json();
-        // console.log(datas.data.nonprofit);
         setInfo(datas.data.nonprofit);
       } catch (error) {
         console.error('Error in fetching data', error);

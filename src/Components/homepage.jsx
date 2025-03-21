@@ -8,11 +8,13 @@ import ngo7 from '../assets/ngo7.jpg';
 import PageDetailsOne from './pageDetailsOne'
 import PageDetailsTwo from './pageDetailsTwo'
 import PageDetailsThree from './pageDetailsThree'
+import Title from './title'
 import './card.css'
 
 const Homepage = () => {
   return (
     <div className='homepage-bg'>
+      <Title/>
       <div className="banner">
         <div className="slider" style={{ "--quantity": 7 }}>
           <div className="item" style={{ "--position": 1 }}>

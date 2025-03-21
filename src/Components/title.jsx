@@ -6,8 +6,8 @@ const Title = () => {
   return (
     <div className='title-container'>
         <img src={background} alt="Title-background" className='title-img'/>
-        <h1 className='title'>Umeed Ke Saath</h1>
-        <h4 className='title-slogan'>Aao, Saath Milkar Umeed Banayein</h4>
+        <h1 className='title-text'>Umeed Ke Saath</h1>
+        <h4 className='title-slogan'>"Aao, Saath Milkar Umeed Banayein"</h4>
     </div>
   )
 }
