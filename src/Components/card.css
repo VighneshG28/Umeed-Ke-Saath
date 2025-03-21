@@ -528,3 +528,42 @@ button:hover {
 .homepage-bg {
   background: linear-gradient(to right, #f7f5ff, #e8f0ff);
 }
+
+.title-container {
+  position: relative;
+  width: 96%; /* Covers more from left and right */
+  max-width: 1400px;
+  margin: 90px auto 20px auto; /* Pushed down by 50px (20px previous margin + 50px extra) */
+  border-radius: 20px;
+  overflow: hidden; /* Ensures rounded corners apply */
+}
+
+.title-img {
+  width: 100%;
+  height: 85vh;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.title {
+  position: absolute;
+  top: calc(40% + 70px); /* Shifted down by 50px */
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3.5rem;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.title-slogan {
+  position: absolute;
+  top: calc(55% + 50px); /* Shifted down by 50px */
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 1.8rem;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
