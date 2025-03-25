@@ -10,6 +10,7 @@ import PageDetailsTwo from './pageDetailsTwo'
 import PageDetailsThree from './pageDetailsThree'
 import Title from './title'
 import Area from './area'
+import Footer from './footer'
 import './card.css'
 
 const Homepage = () => {
@@ -46,6 +47,7 @@ const Homepage = () => {
       <PageDetailsTwo/>
       <PageDetailsThree/>
       <Area/>
+      <Footer/>
     </div>
   );
 };
