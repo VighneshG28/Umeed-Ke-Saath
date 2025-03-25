@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut } from "firebase/auth";
+import { createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut, updateProfile } from "firebase/auth";
 import { auth } from "../firebase-config";
-import "./card.css"
+import "./card.css";
 
 const Login = () => {
   const [email, setEmail] = useState("");
@@ -12,8 +12,13 @@ const Login = () => {
 
   const handleSignUp = async () => {
     try {
-      await createUserWithEmailAndPassword(auth, email, password);
-      alert("User registered successfully!");
+      const userCredential = await createUserWithEmailAndPassword(auth, email, password);
+      const user = userCredential.user;
+      const username = email.split("@")[0];
+
+      await updateProfile(user, { displayName: username });
+
+      alert(`User registered successfully! Welcome, ${user.displayName}`);
       navigate("/blogs");
     } catch (err) {
       setError(err.message);
@@ -37,33 +42,37 @@ const Login = () => {
     try {
       await signOut(auth);
       alert("Logged out successfully!");
-      navigate("/blogs/login");
+      navigate("/blogs");
     } catch (error) {
       alert("Logout Failed: " + error.message);
     }
   };
 
   return (
-    <div className="login-container">
-      <h2>Login / Sign Up</h2>
-      {error && <p className="error-message">{error}</p>}
-      <input
-        type="email"
-        placeholder="Email"
-        value={email}
-        onChange={(e) => setEmail(e.target.value)}
-        required
-      />
-      <input
-        type="password"
-        placeholder="Password"
-        value={password}
-        onChange={(e) => setPassword(e.target.value)}
-        required
-      />
-      <button onClick={handleLogin}>Login</button>
-      <button onClick={handleSignUp}>Sign Up</button>
-      <button onClick={handleLogout} className="logout-button">Logout</button>
+    <div className="body-container">
+      <div className="login-container">
+        <h2 className="login-title">Login / Sign Up</h2>
+        {error && <p className="error-message">{error}</p>}
+        <input
+          type="email"
+          className="input-field"
+          placeholder="Email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          required
+        />
+        <input
+          type="password"
+          className="input-field"
+          placeholder="Password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+          required
+        />
+        <button className="buttons" onClick={handleLogin}>Login</button>
+        <button className="buttons" onClick={handleSignUp}>Sign Up</button>
+        <button className="buttons logout-button" onClick={handleLogout}>Logout</button>
+      </div>
     </div>
   );
 };

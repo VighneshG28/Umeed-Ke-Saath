@@ -1,6 +1,4 @@
 import React from 'react'
-import Area from './Components/area'
-import NgoCard from './Components/ngoCard'
 import { BrowserRouter,Route,Routes, useNavigate } from "react-router-dom"
 import Demo from './Components/demo'
 import NgoDetail from './Components/ngoDetails'
@@ -15,16 +13,15 @@ const App = () => {
   return (
     <div>
       <BrowserRouter>
-        {/* <Header/> */}
+        <Header/>
         <Routes>
-          {/* <Route path="/" element={<Homepage/>} /> */}
-          {/* <Route path="/:idn" element={<NgoDetail/>} /> */}
+          <Route path="/" element={<Homepage/>} />
+          <Route path="/:idn" element={<NgoDetail/>} />
           <Route path="/blogs" element={<Blog/>} />
           <Route path="/blogs/createpost" element={<CreatePost/>} />
           <Route path="/blogs/login" element={<Login/>} />
         </Routes>
-        {/* <Area/>
-        <Footer/>     */}
+        <Footer/>    
       </BrowserRouter>
         {/* <Demo/> */}
     </div>

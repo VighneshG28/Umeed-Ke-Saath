@@ -9,11 +9,12 @@ import PageDetailsOne from './pageDetailsOne'
 import PageDetailsTwo from './pageDetailsTwo'
 import PageDetailsThree from './pageDetailsThree'
 import Title from './title'
+import Area from './area'
 import './card.css'
 
 const Homepage = () => {
   return (
-    <div className='homepage-bg'>
+    <div>
       <Title/>
       <div className="banner">
         <div className="slider" style={{ "--quantity": 7 }}>
@@ -44,6 +45,7 @@ const Homepage = () => {
       <PageDetailsOne/>
       <PageDetailsTwo/>
       <PageDetailsThree/>
+      <Area/>
     </div>
   );
 };
