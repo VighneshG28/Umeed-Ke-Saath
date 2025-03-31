@@ -158,11 +158,8 @@ const NgoDetail = () => {
                 <input type="text" className="volunteer-form-input" defaultValue={`${idn}@gmail.com`}/>
               </div>
               <div className="volunteer-form-group">
-                <input 
-                  type="submit" 
-                  className="volunteer-form-submit" 
-                  onClick={() => alert("Request sent")} 
-                />
+                <h2 className="volunteer-form-submit" 
+                  onClick={() => alert("Request sent")}>Submit</h2>
               </div>
             </form>
             <h2 className='close-form' onClick={(e) =>{e.stopPropagation();
