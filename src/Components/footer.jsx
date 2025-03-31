@@ -8,7 +8,7 @@ const Footer = () => {
       <h2 className='grp-heading'>Group Members:</h2>
       <ul className='member-list'>
         <li className='member-name'>Shubham Garg</li>
-        <li className='member-name'>Shubham Yadav</li>
+        <li className='member-name'>Subham Yadav</li>
         <li className='member-name'>Suraj Kumar</li>
         <li className='member-name'>Vighnesh Gole</li>
       </ul>
