@@ -7,8 +7,8 @@ const PageDetailsTwo = () => {
     <div className='page-container'>
       <img src={Blog} alt='Blog' className='blog-img' />
       <div className='text-content'>
-        <h1 className='blog-heading'>Blogging</h1>
-        <p className='blog-paragraph'>You write blogs sharing your experiences.</p>
+        <h1 className='blogg-heading'>Blogging</h1>
+        <p className='blogg-paragraph'>You write blogs sharing your experiences.</p>
       </div>
     </div>
   );

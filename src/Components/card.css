@@ -331,6 +331,7 @@ button:hover {
 
 .umk-logo {
   height: 50px; 
+  cursor: pointer;
 }
 
 .nav {
@@ -422,14 +423,14 @@ button:hover {
   max-width: 500px;
 }
 
-.blog-heading {
+.blogg-heading {
   font-size: 2.5rem;
   color: #333;
   font-weight: 600;
   margin-bottom: 10px;
 }
 
-.blog-paragraph {
+.blogg-paragraph {
   font-size: 1.2rem;
   color: #555;
   line-height: 1.6;
@@ -463,14 +464,14 @@ button:hover {
   max-width: 500px;
 }
 
-.volunteer-heading {
+.voluntee-heading {
   font-size: 2.5rem;
   color: #333;
   font-weight: 600;
   margin-bottom: 10px;
 }
 
-.volunteer-paragraph {
+.volutee-paragraph{
   font-size: 1.2rem;
   color: #555;
   line-height: 1.6;
@@ -537,7 +538,7 @@ button:hover {
   position: relative;
   width: 96%;
   max-width: 1400px;
-  margin: 90px auto 20px auto;
+  margin: 50px auto 20px auto;
   border-radius: 20px;
   overflow: hidden;
 }
@@ -720,7 +721,7 @@ button:hover {
   flex-direction: column;
   align-items: center;
   padding: 20px;
-  margin-top: 110px; /* Adjusted to avoid excessive movement */
+  margin-top: 60px; /* Adjusted to avoid excessive movement */
   position: relative; /* Keeps it from shifting */
 }
 
@@ -1000,24 +1001,6 @@ textarea {
   background: linear-gradient(90deg, #388e3c, #4caf50); /* Green gradient */
   transition: width 0.5s ease-in-out;
 }
-
-/* .ngo-detail-page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 20px;
-  background-color: #f4f8f2;
-}
-
-.donation-section {
-  width: 100%;
-  max-width: 600px;
-  text-align: center;
-  background: #e8f5e9;
-  padding: 20px;
-  border-radius: 12px;
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-} */
 
 .volunteer-form-container {
   width: 100%;

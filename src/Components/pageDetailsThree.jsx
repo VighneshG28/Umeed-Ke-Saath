@@ -6,8 +6,8 @@ const PageDetailsThree = () => {
   return (
     <div className='page-container'>
       <div className='text-content'>
-        <h1 className='volunteer-heading'>Volunteer</h1>
-        <p className='voluteer-paragraph'>You can volunteer for the ngo of your choice.</p>
+        <h1 className='voluntee-heading'>Volunteer</h1>
+        <p className='volutee-paragraph'>You can volunteer for the ngo of your choice.</p>
       </div>
       <img src={Volunteer} alt='Volunteer' className='volunteer-img' />
     </div>

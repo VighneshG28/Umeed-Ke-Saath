@@ -14,7 +14,7 @@ const NgoDetail = () => {
   const [liked, setLiked] = useState(false);
   const [useForm, setUseForm] = useState(false);
   const {idn} = useParams();
-  const donations = (Math.random() * (10000 - 1000) + 1000).toFixed(2);
+  const [donations] = useState((Math.random() * (10000 - 1000) + 1000).toFixed(2));
 
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged((currentUser) => {
@@ -108,7 +108,7 @@ const NgoDetail = () => {
           </div>
           <div className="donation-section">
             <h2>Donated amount</h2>
-            <h3>${donations}</h3>
+            <h3>${donations} / $10000.00</h3>
             <div className="progress-bar-container">
               <div className="progress-bar-fill" style={{ width: `${(donations / 10000) * 100}%` }}></div>
             </div>

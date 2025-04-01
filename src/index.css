@@ -195,3 +195,13 @@ button:hover {
     @apply bg-background text-foreground;
   }
 }
+
+#chatbot-toggler {
+  position: fixed;
+  z-index: 9999;
+}
+
+.chatbot-popup {
+  z-index: 9998; /*Ensuring it stays above all elements */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Slight shadow for better visibility */
+}
