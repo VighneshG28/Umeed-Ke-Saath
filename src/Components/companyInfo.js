@@ -1,86 +1,122 @@
 export const companyInfo = `
 Introduction:
-I'm your friendly NGO and Social Events chatbot, here to assist you with information about NGOs in India, their missions, activities, and upcoming social events. Whether you're looking to volunteer, donate, or simply learn more, I'm here to help!
+I'm your friendly NGO and Social Events chatbot, here to assist you with comprehensive information about NGOs in India, their missions, activities, funding details, contact information, and upcoming social events. Whether you're looking to volunteer, donate, or simply learn more, I'm here to help!
 
 Details:
-Our platform provides up-to-date details about NGOs working in various sectors, including child rights, poverty alleviation, healthcare, cleanliness, women empowerment, and environmental conservation. You can explore NGOs by category and get detailed information about their work, projects, and how you can contribute.
+Our platform provides up-to-date details about NGOs working in various sectors, including child rights, poverty alleviation, healthcare, cleanliness, women's empowerment, environmental conservation, and old age care. You can explore NGOs by category and get detailed information about their work, projects, funding, and how you can contribute.
 
 NGO Categories:
-- **Child Rights**:
-  - **CRY - Child Rights and You**
-    - Website: https://www.cry.org
-    - Mission: Ensure lasting change in children's lives through education, healthcare, and protection.
-    - Key Initiatives: School enrollment drives, nutrition programs, child labor prevention.
-  - **Save the Children India**
-    - Website: https://www.savethechildren.in
-    - Mission: Support marginalized children with education, healthcare, and emergency relief.
-    - Key Initiatives: Child education programs, emergency response aid, advocacy for child rights.
 
-- **Poverty Alleviation**:
-  - **Goonj**
-    - Website: https://goonj.org
-    - Mission: Address urban-rural resource gaps by repurposing urban surplus for rural development.
-    - Key Initiatives: "Cloth for Work" program, disaster relief, rural entrepreneurship.
-  - **Akshaya Patra Foundation**
-    - Website: https://www.akshayapatra.org
-    - Mission: Provide mid-day meals to school children to enhance education and nutrition.
-    - Key Initiatives: Mid-day meal program, food security campaigns, kitchen expansion projects.
+- *Child Rights*:
+  - *Leher*
+    - Website: https://leher.org/
+    - Vision: To create a society where children are protected from harm and abuse.
+    - Mission: To ensure that every child in India grows up in a safe and protective environment.
+    - Key Initiatives: Promoting child labour free ecosystem, The Minor Project, Safe Communities.
+    - Funding: Information not specified.
+    - Contact: contact@leher.org | +91-11-40560722 | C-5, Lower Ground Floor, Kailash Colony, New Delhi - 110048
+    - Latest Event: National Consultation for Childline Network - Dec 11-12, 2024, Delhi
+    - Donation Campaign: Support Community-Led Child Protection - https://leher.org/donate/
 
-- **Healthcare**:
-  - **Smile Foundation**
-    - Website: https://smilefoundationindia.org
-    - Mission: Empower underprivileged children and youth through education and healthcare.
-    - Key Initiatives: Mobile health clinics, primary education programs, skill development.
-  - **HelpAge India**
-    - Website: https://helpageindia.org
-    - Mission: Work for the welfare of the elderly, especially indigent and disadvantaged elders.
-    - Key Initiatives: Mobile healthcare units, elder helplines, old age homes support.
+  - *Bachpan Bachao Andolan*
+    - Website: https://www.bba.org.in/
+    - Vision: To create a child-friendly world free from child labour and trafficking.
+    - Mission: Rescue and rehabilitate child labourers and trafficking victims.
+    - Key Initiatives: Bal Mitra Gram (Child Friendly Villages), Child Rescue Operations.
+    - Funding: Supported by public and institutional donations.
+    - Contact: info@bba.org.in | +91-11-49211111 | New Delhi
+    - Latest Event: Anti-Child Labour Awareness Drive - June 12, 2025, Pan India
+    - Donation Campaign: End Child Labour - https://www.bba.org.in/donate/
 
-- **Cleanliness & Sanitation**:
-  - **Sulabh International**
-    - Website: https://www.sulabhinternational.org
-    - Mission: Promote sanitation, hygiene, and sustainable waste management practices.
-    - Key Initiatives: Public toilets, waste management programs, hygiene awareness campaigns.
-  - **Swachh Bharat Abhiyan**
-    - Website: https://swachhbharatmission.gov.in
-    - Mission: Achieve universal sanitation coverage and eliminate open defecation.
-    - Key Initiatives: Construction of toilets, waste segregation drives, urban cleanliness projects.
+- *Poverty Alleviation*:
+  - *Goonj*
+    - Website: https://goonj.org/
+    - Vision: To bridge the urban-rural divide through sustainable solutions.
+    - Mission: Address basic but neglected issues of the poor with dignity.
+    - Key Initiatives: Cloth for Work, Not Just a Piece of Cloth, School to School.
+    - Funding: Information not specified.
+    - Contact: mail@goonj.org | +91-11-26972351 | J-93, Sarita Vihar, New Delhi - 110076
+    - Latest Event: Odha Do Zindagi Winter Campaign - Dec 2025, Various Locations
+    - Donation Campaign: Support Rural Development - https://goonj.org/donate/
 
-- **Women Empowerment**:
-  - **SEWA - Self Employed Women’s Association**
-    - Website: https://www.sewa.org
-    - Mission: Strengthen women workers through self-employment and financial independence.
-    - Key Initiatives: Women entrepreneurship training, micro-financing, skill development.
-  - **CARE India**
-    - Website: https://www.careindia.org
-    - Mission: Improve the lives of women and girls through education, health, and livelihood programs.
-    - Key Initiatives: Women leadership programs, maternal health projects, gender equality advocacy.
+- *Healthcare*:
+  - *Sanitation First India*
+    - Website: https://sanitationfirstindia.org/
+    - Vision: A thriving planet powered by gender equity.
+    - Mission: Provide sustainable WASH solutions to vulnerable communities.
+    - Key Initiatives: Clean Water Access, Eco Sanitation, Hygiene Promotion.
+    - Funding: Information not specified.
+    - Contact: info@sanitationfirstindia.org | +91-44-24514515 | Chennai - 600028
+    - Latest Event: World Toilet Day - Nov 19, 2025, Chennai
+    - Donation Campaign: Build a Toilet - https://sanitationfirstindia.org/donate/
 
-- **Environmental Conservation**:
-  - **WWF India**
+- *Cleanliness & Sanitation*:
+  - *Sulabh International*
+    - Website: https://www.sulabhinternational.org/
+    - Vision: Equitable sanitation and hygiene for all.
+    - Mission: Promote sanitation and social reform through awareness.
+    - Key Initiatives: Public Toilets, Community Sanitation, Vocational Training.
+    - Funding: Information not specified.
+    - Contact: info@sulabhinternational.org | +91-11-25031518 | New Delhi - 110045
+    - Latest Event: Sanitation Awareness March - Oct 2, 2025, All India
+    - Donation Campaign: Sanitation for All - https://www.sulabhinternational.org/donate/
+
+- *Women Empowerment*:
+  - *WICCI*
+    - Website: https://wicci.in/
+    - Vision: Empower women in commerce and business.
+    - Mission: Promote women’s entrepreneurship and leadership.
+    - Key Initiatives: Policy Advocacy, Business Summits, Mentorship.
+    - Funding: Information not specified.
+    - Contact: info@wicci.in | +91-11-40505850 | New Delhi
+    - Latest Event: National Women’s Summit - Aug 20, 2025, Mumbai
+    - Donation Campaign: Empower Women Entrepreneurs - https://wicci.in/donate
+
+  - *Snehalaya*
+    - Website: https://www.snehalaya.org/
+    - Vision: A world where every woman and child has the right to a life free from exploitation.
+    - Mission: Rehabilitate and empower women and children affected by HIV/AIDS, trafficking, and abuse.
+    - Key Initiatives: Shelter Homes, Education, Healthcare for Women.
+    - Funding: Donations and grants.
+    - Contact: info@snehalaya.org | +91-241-2351654 | Ahmednagar, Maharashtra
+    - Latest Event: Women Empowerment Expo - Sept 10, 2025, Pune
+    - Donation Campaign: Sponsor a Shelter - https://www.snehalaya.org/donate
+
+- *Environmental Conservation*:
+  - *WWF India*
     - Website: https://www.wwfindia.org
-    - Mission: Conserve nature and reduce threats to biodiversity in India.
-    - Key Initiatives: Wildlife conservation, climate change mitigation, eco-restoration projects.
-  - **CSE - Centre for Science and Environment**
-    - Website: https://www.cseindia.org
-    - Mission: Research and promote sustainable environmental policies.
-    - Key Initiatives: Pollution control campaigns, water conservation programs, green energy advocacy.
+    - Vision: Conserve nature and reduce threats to biodiversity.
+    - Mission: Sustainable development and ecosystem protection.
+    - Key Initiatives: Wildlife Conservation, Climate Mitigation, Eco Education.
+    - Funding: Donations and institutional support.
+    - Contact: contact@wwfindia.net | +91-11-41504797 | New Delhi
+    - Latest Event: Tiger Conservation Drive - July 29, 2025, Sundarbans
+    - Donation Campaign: Adopt a Wild Animal - https://www.wwfindia.org
+
+  - *Greenpeace India*
+    - Website: https://www.greenpeace.org/india/
+    - Vision: A green and peaceful future.
+    - Mission: Promote environmental sustainability and activism.
+    - Key Initiatives: Air Pollution Awareness, Plastic-Free Campaigns, Climate Justice.
+    - Funding: Completely crowd-funded.
+    - Contact: supporter.services.in@greenpeace.org | +91-11-66660200 | Bengaluru
+    - Latest Event: Climate March for Justice - Oct 15, 2025, Delhi
+    - Donation Campaign: Stop Air Pollution - https://www.greenpeace.org/india/en/donate/
 
 Ongoing Social Events & Campaigns:
-- **Tree Plantation Drive** by WWF India - March 30, 2025, New Delhi
-- **Blood Donation Camp** by Red Cross India - April 5, 2025, Mumbai
-- **Run for Education** by Smile Foundation - April 12, 2025, Bengaluru
-- **Women’s Empowerment Summit** by SEWA - April 18, 2025, Hyderabad
-- **Food Distribution Drive** by Akshaya Patra - Every Saturday, Various Locations
+- *Tree Plantation Drive* by WWF India - July 15, 2025, New Delhi
+- *Blood Donation Camp* by Red Cross India - Aug 10, 2025, Mumbai
+- *Run for Education* by Smile Foundation - Sept 5, 2025, Bengaluru
+- *Women’s Empowerment Summit* by SEWA - Oct 22, 2025, Hyderabad
+- *Food Distribution Drive* by Akshaya Patra - Every Saturday, Various Locations
 
 How You Can Get Involved:
-- **Volunteer**: Join hands with NGOs and contribute your time for a cause.
-- **Donate**: Support social initiatives with monetary or in-kind donations.
-- **Attend Events**: Participate in awareness programs, fundraising events, and social drives.
-- **Spread Awareness**: Share about these NGOs and events on social media.
+- *Volunteer*: Join hands with NGOs and contribute your time for a cause.
+- *Donate*: Support social initiatives with monetary or in-kind donations.
+- *Attend Events*: Participate in awareness programs, fundraising events, and social drives.
+- *Spread Awareness*: Share about these NGOs and events on social media.
 
 Contact & Support:
-For more details or inquiries, reach out via:
 - Email: support@ngoindia.org
 - Phone: +91 98765 43210
 - Website: https://www.ngoindia.org
