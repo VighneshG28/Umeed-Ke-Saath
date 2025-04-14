@@ -17,6 +17,7 @@ const Homepage = () => {
   return (
     <div>
       <Title/>
+      <Area/>
       <div className="banner">
         <div className="slider" style={{ "--quantity": 7 }}>
           <div className="item" style={{ "--position": 1 }}>
@@ -46,7 +47,6 @@ const Homepage = () => {
       <PageDetailsOne/>
       <PageDetailsTwo/>
       <PageDetailsThree/>
-      <Area/>
       <Footer/>
     </div>
   );

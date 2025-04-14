@@ -7,8 +7,8 @@ Our platform provides up-to-date details about NGOs working in various sectors, 
 
 NGO Categories:
 
-- *Child Rights*:
-  - *Leher*
+- **Child Rights**:
+  - **Leher**
     - Website: https://leher.org/
     - Vision: To create a society where children are protected from harm and abuse.
     - Mission: To ensure that every child in India grows up in a safe and protective environment.
@@ -18,7 +18,7 @@ NGO Categories:
     - Latest Event: National Consultation for Childline Network - Dec 11-12, 2024, Delhi
     - Donation Campaign: Support Community-Led Child Protection - https://leher.org/donate/
 
-  - *Bachpan Bachao Andolan*
+  - **Bachpan Bachao Andolan**
     - Website: https://www.bba.org.in/
     - Vision: To create a child-friendly world free from child labour and trafficking.
     - Mission: Rescue and rehabilitate child labourers and trafficking victims.
@@ -28,8 +28,8 @@ NGO Categories:
     - Latest Event: Anti-Child Labour Awareness Drive - June 12, 2025, Pan India
     - Donation Campaign: End Child Labour - https://www.bba.org.in/donate/
 
-- *Poverty Alleviation*:
-  - *Goonj*
+- **Poverty Alleviation**:
+  - **Goonj**
     - Website: https://goonj.org/
     - Vision: To bridge the urban-rural divide through sustainable solutions.
     - Mission: Address basic but neglected issues of the poor with dignity.
@@ -39,8 +39,8 @@ NGO Categories:
     - Latest Event: Odha Do Zindagi Winter Campaign - Dec 2025, Various Locations
     - Donation Campaign: Support Rural Development - https://goonj.org/donate/
 
-- *Healthcare*:
-  - *Sanitation First India*
+- **Healthcare**:
+  - **Sanitation First India**
     - Website: https://sanitationfirstindia.org/
     - Vision: A thriving planet powered by gender equity.
     - Mission: Provide sustainable WASH solutions to vulnerable communities.
@@ -50,8 +50,8 @@ NGO Categories:
     - Latest Event: World Toilet Day - Nov 19, 2025, Chennai
     - Donation Campaign: Build a Toilet - https://sanitationfirstindia.org/donate/
 
-- *Cleanliness & Sanitation*:
-  - *Sulabh International*
+- **Cleanliness & Sanitation**:
+  - **Sulabh International**
     - Website: https://www.sulabhinternational.org/
     - Vision: Equitable sanitation and hygiene for all.
     - Mission: Promote sanitation and social reform through awareness.
@@ -61,8 +61,8 @@ NGO Categories:
     - Latest Event: Sanitation Awareness March - Oct 2, 2025, All India
     - Donation Campaign: Sanitation for All - https://www.sulabhinternational.org/donate/
 
-- *Women Empowerment*:
-  - *WICCI*
+- **Women Empowerment**:
+  - **WICCI**
     - Website: https://wicci.in/
     - Vision: Empower women in commerce and business.
     - Mission: Promote women’s entrepreneurship and leadership.
@@ -72,7 +72,7 @@ NGO Categories:
     - Latest Event: National Women’s Summit - Aug 20, 2025, Mumbai
     - Donation Campaign: Empower Women Entrepreneurs - https://wicci.in/donate
 
-  - *Snehalaya*
+  - **Snehalaya**
     - Website: https://www.snehalaya.org/
     - Vision: A world where every woman and child has the right to a life free from exploitation.
     - Mission: Rehabilitate and empower women and children affected by HIV/AIDS, trafficking, and abuse.
@@ -82,8 +82,8 @@ NGO Categories:
     - Latest Event: Women Empowerment Expo - Sept 10, 2025, Pune
     - Donation Campaign: Sponsor a Shelter - https://www.snehalaya.org/donate
 
-- *Environmental Conservation*:
-  - *WWF India*
+- **Environmental Conservation**:
+  - **WWF India**
     - Website: https://www.wwfindia.org
     - Vision: Conserve nature and reduce threats to biodiversity.
     - Mission: Sustainable development and ecosystem protection.
@@ -93,7 +93,7 @@ NGO Categories:
     - Latest Event: Tiger Conservation Drive - July 29, 2025, Sundarbans
     - Donation Campaign: Adopt a Wild Animal - https://www.wwfindia.org
 
-  - *Greenpeace India*
+  - **Greenpeace India**
     - Website: https://www.greenpeace.org/india/
     - Vision: A green and peaceful future.
     - Mission: Promote environmental sustainability and activism.
@@ -104,17 +104,46 @@ NGO Categories:
     - Donation Campaign: Stop Air Pollution - https://www.greenpeace.org/india/en/donate/
 
 Ongoing Social Events & Campaigns:
-- *Tree Plantation Drive* by WWF India - July 15, 2025, New Delhi
-- *Blood Donation Camp* by Red Cross India - Aug 10, 2025, Mumbai
-- *Run for Education* by Smile Foundation - Sept 5, 2025, Bengaluru
-- *Women’s Empowerment Summit* by SEWA - Oct 22, 2025, Hyderabad
-- *Food Distribution Drive* by Akshaya Patra - Every Saturday, Various Locations
+- **Tree Plantation Drive** by WWF India - July 15, 2025, New Delhi
+- **Blood Donation Camp** by Red Cross India - Aug 10, 2025, Mumbai
+- **Run for Education** by Smile Foundation - Sept 5, 2025, Bengaluru
+- **Women’s Empowerment Summit** by SEWA - Oct 22, 2025, Hyderabad
+- **Food Distribution Drive** by Akshaya Patra - Every Saturday, Various Locations
+- **Clean Delhi Campaign** by Sulabh International - Oct 1-10, 2025, New Delhi
+- **Youth for Change: Empowering Students** by Teach for India - Aug 15-18, 2025, Mumbai
+- **Cycling for Climate** by Greenpeace India - Sept 20, 2025, Bengaluru
+- **Donate a Book Campaign** by Goonj - Sept 30, 2025, Delhi & Kolkata
+
+**Latest News & Updates**:
+- **WICCI Launches Women Startup Accelerator** - April 2025: A new mentorship and funding initiative for early-stage women-led startups across India.
+- **Goonj Collaborates with ISRO for Satellite Mapping of Rural Needs** - March 2025: Pilot project in Jharkhand and Odisha to identify underserved regions.
+- **WWF India Introduces ‘Eco-Schools India’** - February 2025: A national campaign to engage schools in climate action and sustainable practices.
+- **Bachpan Bachao Andolan’s Rescue Milestone** - April 2025: Crosses 1,30,000 child rescues in India; announces new rapid-response teams in 10 states.
+- **Snehalaya Receives UN Award for Social Impact** - March 2025: Honoured for efforts in empowering women and children against exploitation.
+- **Sanitation First India Wins CSR Impact Award 2025** - Recognized for innovative eco-toilets in rural Tamil Nadu.
+- **Red Cross India Launches Nationwide Blood Donation Drive** - April 2025: Targeting 50,000 pints of blood collection across India.
+- **Greenpeace India Holds Global Webinars for Climate Justice** - March 2025: Featuring environmentalists from across the world.
+- **Sulabh International Reaches Milestone of 1 Million Public Toilets** - February 2025: Celebrating a decade of improved sanitation access across India.
 
 How You Can Get Involved:
-- *Volunteer*: Join hands with NGOs and contribute your time for a cause.
-- *Donate*: Support social initiatives with monetary or in-kind donations.
-- *Attend Events*: Participate in awareness programs, fundraising events, and social drives.
-- *Spread Awareness*: Share about these NGOs and events on social media.
+- **Volunteer**: 
+  - Join hands with NGOs and contribute your time to a cause. Many NGOs offer short-term or long-term volunteer opportunities. You can assist with fieldwork, help organize events, or support office operations.
+  - For instance, you can volunteer for the **Run for Education** event by Smile Foundation or help in the **Tree Plantation Drive** organized by WWF India.
+  
+- **Donate**: 
+  - Monetary donations are a quick way to support the cause. Many NGOs also accept in-kind donations such as clothes, food, books, and medical supplies.
+  - Consider donating to initiatives like **Support Rural Development** by Goonj or **Sanitation for All** by Sulabh International.
+  
+- **Attend Events**: 
+  - Participate in local or national events that raise awareness and funds for social causes. For example, attend the **Women’s Empowerment Summit** by SEWA or the **Blood Donation Camp** by Red Cross India.
+  - Participate in virtual or in-person events like **Youth for Change: Empowering Students** by Teach for India or **Cycling for Climate** by Greenpeace India.
+
+- **Spread Awareness**: 
+  - Use your social media platforms to share updates about the NGOs and their work. Social media is an excellent tool to reach a broader audience and encourage more people to contribute.
+  - You can share about **WWF India’s Tiger Conservation Drive** or **Greenpeace India’s Plastic-Free Campaign** to inform others about ongoing efforts.
+
+- **Fundraise**: 
+  - Organize your own fundraising events or campaigns. You could host a charity walk, organize a crowdfunding campaign, or even collaborate with NGOs to increase donations for a specific initiative.
 
 Contact & Support:
 - Email: support@ngoindia.org

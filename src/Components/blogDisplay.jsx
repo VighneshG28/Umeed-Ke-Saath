@@ -56,10 +56,26 @@ const BlogDisplay = () => {
                     return (
                         <div key={post.id} className="blog-card">
                             <h2 className="blog-heading">{post.title}</h2>
+
+                            {post.imageUrl && (
+                                <img
+                                    src={post.imageUrl}
+                                    alt="Blog post"
+                                    className="blog-image"
+                                    style={{
+                                        width: '100%',
+                                        maxHeight: '400px',
+                                        objectFit: 'cover',
+                                        borderRadius: '12px',
+                                        marginBottom: '1rem',
+                                    }}
+                                />
+                            )}
+
                             <p className="blog-text">{post.postText}</p>
                             <h3 className="blog-author">@{post.author.name}</h3>
-                            <div className='like-section'>
-                                <button className='like-btn' onClick={() => handleLike(post.id, isLiked, post.likes || 0)}>
+                            <div className="like-section">
+                                <button className="like-btn" onClick={() => handleLike(post.id, isLiked, post.likes || 0)}>
                                     {isLiked ? <FaHeart color='red' /> : <FaRegHeart />} {post.likes || 0}
                                 </button>
                             </div>
